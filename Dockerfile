@@ -1,4 +1,4 @@
-FROM r-base:3.4.1
+FROM r-base:3.4.2
 
 MAINTAINER Tim Jones "timothy.jones1@amey.co.uk"
 
